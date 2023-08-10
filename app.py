@@ -1,4 +1,4 @@
-# Import the dependencies.
+# Import the dependencies. 
 from flask import Flask, jsonify
 import numpy as np
 import datetime as dt
